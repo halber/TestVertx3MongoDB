@@ -1,0 +1,8 @@
+/build/
+/.nb-gradle/
+/.idea/
+/.gradle/
+/.vertx/
+*.iml
+.nb-gradle-properties
+.DS_Store
